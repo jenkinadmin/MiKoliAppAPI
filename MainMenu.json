@@ -1,0 +1,114 @@
+[
+    {
+        "MainMenuID": "1",
+        "Title": "Prashtvana",
+        "Controller": "Home",
+        "Method": "Index",
+        "ParameterID": "1"
+    },
+    {
+        "MainMenuID": "2",
+        "Title": "Koli Jamaticha Uday",
+        "Controller": "Contain",
+        "Method": "Details",
+        "ParameterID": "2"
+    },
+    {
+        "MainMenuID": "3",
+        "Title": "Maharahratil Koli",
+        "Controller": "Contain",
+        "Method": "Details",
+        "ParameterID": "3"
+    },
+    {
+        "MainMenuID": "4",
+        "Title": "Rudi aani Parampara",
+        "Controller": "Contain",
+        "Method": "Details",
+        "ParameterID": "4"
+    },
+    {
+        "MainMenuID": "5",
+        "Title": "Jivan Shaili",
+        "Controller": "Contain",
+        "Method": "Details",
+        "ParameterID": "5"
+    },
+    {
+        "MainMenuID": "6",
+        "Title": "Gavache Swaroop",
+        "Controller": "Contain",
+        "Method": "Details",
+        "ParameterID": "6"
+    },
+    {
+        "MainMenuID": "7",
+        "Title": "Poshaka aani Rahniman",
+        "Controller": "Contain",
+        "Method": "Details",
+        "ParameterID": "7"
+    },
+    {
+        "MainMenuID": "8",
+        "Title": "Aahar",
+        "Controller": "Contain",
+        "Method": "Details",
+        "ParameterID": "8"
+    },
+    {
+        "MainMenuID": "9",
+        "Title": "Vivaha",
+        "Controller": "Contain",
+        "Method": "Details",
+        "ParameterID": "9"
+    },
+    {
+        "MainMenuID": "10",
+        "Title": "Dharmik Vidhi",
+        "Controller": "Contain",
+        "Method": "Details",
+        "ParameterID": "10"
+    },
+    {
+        "MainMenuID": "11",
+        "Title": "SAN",
+        "Controller": "Contain",
+        "Method": "Details",
+        "ParameterID": "11"
+    },
+    {
+        "MainMenuID": "12",
+        "Title": "Devbhola Koli Samaj",
+        "Controller": "Contain",
+        "Method": "Details",
+        "ParameterID": "12"
+    },
+    {
+        "MainMenuID": "13",
+        "Title": "Koliche Gram Devta",
+        "Controller": "Contain",
+        "Method": "Details",
+        "ParameterID": "13"
+    },
+    {
+        "MainMenuID": "14",
+        "Title": "Anuchit Rudi",
+        "Controller": "Contain",
+        "Method": "Details",
+        "ParameterID": "14"
+    },
+    {
+        "MainMenuID": "15",
+        "Title": "Kolichyi Mumbai",
+        "Controller": "Contain",
+        "Method": "Details",
+        "ParameterID": "15"
+    },
+    {
+        "MainMenuID": "16",
+        "Title": "Anuman",
+        "Controller": "Contain",
+        "Method": "Details",
+        "ParameterID": "16"
+    }
+]
